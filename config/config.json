@@ -6,7 +6,6 @@
         "JWT_EXP": "10m"
     },
     "production": {
-        "PORT": 3200,
         "MONGODB_URI": "mongodb://ranajoy1998:30101998@rancluster-shard-00-00-uebwd.mongodb.net:27017,rancluster-shard-00-01-uebwd.mongodb.net:27017,rancluster-shard-00-02-uebwd.mongodb.net:27017/Food?ssl=true&replicaSet=RanCluster-shard-0&authSource=admin&retryWrites=true&w=majority",
         "JWT_SECRET": "SECRET#123",
         "JWT_EXP": "12m"
